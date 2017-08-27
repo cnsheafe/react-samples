@@ -1,0 +1,4 @@
+node_modules
+.awcache
+app/dist/bundle.js
+app/dist/bundle.js.map
